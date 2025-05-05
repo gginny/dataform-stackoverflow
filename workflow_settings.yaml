@@ -1,0 +1,5 @@
+defaultProject: vertexai-hellotabular
+defaultLocation: US
+defaultDataset: dataform_stackoverflow
+defaultAssertionDataset: dataform_stackoverflow_assertions
+dataformCoreVersion: 3.0.0

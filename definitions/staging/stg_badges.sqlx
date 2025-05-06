@@ -11,5 +11,5 @@ select
   user_id
 from
   ${ref("badges")}
-
+-- where name = 'Great Answer'
 limit 100
